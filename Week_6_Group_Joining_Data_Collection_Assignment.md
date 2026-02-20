@@ -4,34 +4,34 @@ them from joining groups, to which I created a google form (More technically 2) 
 
 ## Form Responses
 #### Are you in any groups?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/inGroups.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/inGroups.png){: width="500" height="200"}
 
 #### If so, which ones?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/clubs.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/clubs.png){: width="500" height="200"}
 
 #### Are there groups that you have been deterred from joining?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/deterred.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/deterred.png){: width="500" height="200"}
 
 #### Do you seek to be included in groups, or do you try to actively avoid them?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/seekOrAvoid.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/seekOrAvoid.png){: width="500" height="200"}
 
 #### Do you see communication essential to meet your basic needs?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/communicationBasic.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/communicationBasic.png){: width="500" height="200"}
     
 #### Do you see affection or appreciation as needed in your day to day life?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/affection.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/affection.png){: width="500" height="200"}
 
 #### Do you see any benefits to joining groups, specifically Knowledge or informational wise?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/information.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/information.png){: width="500" height="200"}
 
 #### Do you think you can help to answer the question "Who am I?" with socialization or group memberships?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/whoami.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/whoami.png){: width="500" height="200"}
 
 #### Do you feel you are contributing to something beyond yourself by joining or participating in groups?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/beyondOneSelf.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/beyondOneSelf.png){: width="500" height="200"}
 
 #### Do you participate in a religion?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/religion.png)
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/religion.png){: width="500" height="200"}
 
 
 ## My Take on this information
