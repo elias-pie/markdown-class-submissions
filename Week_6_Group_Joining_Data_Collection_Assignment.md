@@ -7,7 +7,7 @@ them from joining groups, to which I created a google form (More technically 2) 
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/inGroups.png){: width="500" height="200"}
 
 #### If so, which ones?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/clubs.png){: width="500" height="200"}
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/club.png){: width="500" height="200"}
 
 #### Are there groups that you have been deterred from joining?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/english_assignment_week6/deterred.png){: width="500" height="200"}
