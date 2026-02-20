@@ -44,5 +44,4 @@ Bar Graphs in this post were created using Canva
 ## Credits
 Thank you to Ella Bissmeyer, Alexander Carpinello, Abram Bailey, Kaylie Leeman, Quinn Taylor, Carter Portewig, Elizabeth Wegeman, Wyatt Botham, Ethan Sibert, Nina Younis, and other 8 Anonymous Peers for assisting me in collectiing data
 
-[^ai_data]: "Arthritis Exists" - Fowler 2025 (Moved you to the bottom so you don't need to scroll, you're welcome)
 [^gem_context]: The gem was the previous' week assignment where we had to interact with google gemini about the book, _Station Eleven_ by Emily St. John Mandel
